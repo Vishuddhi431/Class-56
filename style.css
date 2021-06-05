@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+h1 {
+    font-family: fantasy;
+    color: currentColor;
+}
+
+p {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+#pic{
+    border-style: dotted;
+    border-width: 3px;
+    border-color: darkgreen;
+}
